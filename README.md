@@ -13,4 +13,11 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-0303&layout=pie&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
+
