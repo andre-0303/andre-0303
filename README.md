@@ -36,12 +36,12 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andre-0303"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/andre-0303">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-0303&&theme=dracula" alt="a" />
-  </a>
-</p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake.svg">
+</picture>
 
 [Bandeira](https://github.com/andre-0303)
 05/01/2025
