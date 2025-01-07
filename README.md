@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=845ec2&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira!;" />
 </h1>
 <h3 align="center">Um futuro desenvolvedor front-end do Brasil</h3>
-
+<p align="center">
 que ama transformar ideias em realidade por meio da programação. Ansioso por novas oportunidades e resiliente para enfrentar novos desafios!
-
+</p>
 <br/>
 - 🔭 Estudante de T.I
 - 🌱 Estudando php e MySQL
