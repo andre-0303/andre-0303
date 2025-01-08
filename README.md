@@ -28,7 +28,7 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
 ?>
 ```
 
-```react
+```javascript 
 const Teste () =>{
    return(
       <h1>Olá mundo!</h1>
