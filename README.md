@@ -62,7 +62,7 @@ export default Teste;
 </picture>
 
 ```html
-<h1 style="color:'blue'">Obrigado e volte sempre!</h1>
+<h1>Obrigado e volte sempre!</h1>
 ```
 
 
