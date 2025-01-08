@@ -61,5 +61,10 @@ export default Teste;
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake.svg">
 </picture>
 
+```html
+<h1 style="color:'blue'">Obrigado e volte sempre!</h1>
+```
+
+
 [Bandeira](https://github.com/andre-0303)
 05/01/2025
