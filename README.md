@@ -6,12 +6,12 @@
 que ama transformar ideias em realidade por meio da programação. Ansioso por novas oportunidades e resiliente para enfrentar novos desafios!
 </p>
 <br/>
-<p direction='column'>
-- 🔭 Estudante de T.I
-- 🌱 Estudando php e MySQL
-- 📫 Entusiasta em Front-end
-- 🐰.
-</p>
+
+- 🔭 Estudante de T.I<br>
+- 🌱 Estudando php e MySQL<br>
+- 📫 Entusiasta em Front-end<br>
+- 🐰.<br>
+
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
