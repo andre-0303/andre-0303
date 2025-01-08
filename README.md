@@ -6,7 +6,7 @@
 que ama transformar ideias em realidade por meio da programação. Ansioso por novas oportunidades e resiliente para enfrentar novos desafios!
 </p>
 <br/>
-<p align="center">
+<p direction='column'>
 - 🔭 Estudante de T.I
 - 🌱 Estudando php e MySQL
 - 📫 Entusiasta em Front-end
