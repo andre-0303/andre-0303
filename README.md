@@ -23,7 +23,7 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
 </div></div><br>
 
 ```javascript 
-const Teste () =>{
+const Teste = () =>{
    return(
       <h1>Bem vindos ao meu
         universo!</h1>
