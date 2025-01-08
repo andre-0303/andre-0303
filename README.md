@@ -22,16 +22,11 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div></div><br>
 
-```php
-<?php
-   echo "Bem vindos ao meu universo!";
-?>
-```
-
 ```javascript 
 const Teste () =>{
    return(
-      <h1>Olá mundo!</h1>
+      <h1>Bem vindos ao meu
+        universo!</h1>
   )
 }
 export default Teste;
