@@ -28,6 +28,16 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
 ?>
 ```
 
+```react
+const Teste () =>{
+   return(
+      <h1>Olá mundo!</h1>
+  )
+}
+
+export default Teste;
+```
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
