@@ -8,7 +8,7 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
 <br/>
 
 - 🔭 Estudante de T.I<br>
-- 🌱 Estudando php e MySQL<br>
+- 🌱 Estudando React Vite<br>
 - 📫 Entusiasta em Front-end<br>
 - 🐰.<br>
 
