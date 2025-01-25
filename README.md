@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=845ec2&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira+Dev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=ff4950&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira+Dev!;" />
 </h1>
 <h3 align="center">A future front-end developer from Brazil</h3>
 <p align="center">
