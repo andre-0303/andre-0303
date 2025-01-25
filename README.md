@@ -1,15 +1,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=845ec2&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira+Dev!;" />
 </h1>
-<h3 align="center">Um futuro desenvolvedor front-end do Brasil</h3>
+<h3 align="center">A future front-end developer from Brazil</h3>
 <p align="center">
-que ama transformar ideias em realidade por meio da programação. Ansioso por novas oportunidades e resiliente para enfrentar novos desafios!
+who loves turning ideas into reality through programming. Eager for new opportunities and resilient to face new challenges!
 </p>
 <br/>
 
-- 🔭 Estudante de T.I<br>
-- 🌱 Estudando React Vite<br>
-- 📫 Entusiasta em Front-end<br>
+- 🔭 IT student<br>
+- 🌱 Studying React with Vite<br>
+- 📫 Front-end enthusiast<br>
 - 🐰.<br>
 
 <div align="center">
@@ -24,22 +24,21 @@ que ama transformar ideias em realidade por meio da programação. Ansioso por n
 </div></div><br>
 
 ```javascript 
-const Teste = () =>{
+const Test = () =>{
    return(
-      <h1>Bem vindos ao meu
-        universo!</h1>
+      <h1>Welcome to my Universe!</h1>
   )
 }
-export default Teste;
+export default Test;
 ```
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:bandeiradev.ti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/andré-bandeira" target="_blank">
+  <a href="www.linkedin.com/in/andré-bandeira" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
@@ -58,7 +57,7 @@ export default Teste;
 </picture>
 
 ```html
-<h1>Obrigado e volte sempre!</h1>
+<h1>Thank you and come back often!</h1>
 ```
 
 
