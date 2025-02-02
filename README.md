@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=ff4950&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira+Dev!;" />
 </h1>
-<h3 align="center">A future front-end developer from Brazil</h3>
+<h3 align="left">A future front-end developer from Brazil</h3>
 <p align="left">
 who loves turning ideas into reality through programming. Eager for new opportunities and resilient to face new challenges!
 </p>
