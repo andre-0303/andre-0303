@@ -12,7 +12,7 @@ who loves turning ideas into reality through programming. Eager for new opportun
 - 📫 Front-end enthusiast<br>
 - 🐰.<br>
 
-<div align="center">
+<div align="left">
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,16 +24,6 @@ who loves turning ideas into reality through programming. Eager for new opportun
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div></div><br>
 
-```javascript 
-const Test = () =>{
-   return(
-      <h1>Welcome to my Universe!</h1>
-  )
-}
-export default Test;
-```
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:bandeiradev.ti@gmail.com">
@@ -44,7 +34,7 @@ export default Test;
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/andre-0303">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andre-0303"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andre-0303"/>
