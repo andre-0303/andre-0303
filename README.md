@@ -18,7 +18,7 @@ who loves turning ideas into reality through programming. Eager for new opportun
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-plain.svg">
+  <img align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
