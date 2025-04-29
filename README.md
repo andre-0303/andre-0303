@@ -1,13 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=ff4950&width=500&height=70&duration=4000&lines=Hello+World!+🌎;+I'm+André+Bandeira!;+But+you+can+call+me:;+Bandeira+Dev!;" />
+  🧑‍💻Hi! I'm André Bandeira
 </h1>
+
+<img align="center" src="./1741176960870.jpg" alt="img-profile"/>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Front-end Developer** from **Brazil 🇧🇷**, passionate about building amazing digital experiences.  
-Always seeking new challenges and opportunities to grow, I'm currently diving deep into **NextJs and TailwindCss**!
+I'm a **Front-end Developer** from **Brazil 🇧🇷**, passionate about building incredible digital experiences.
+I have three years of experience in the technology world, and I'm always willing to learn new things and improve what I know.
 
 - 🎓 IT student  
 - 🚀 Learning Next + TailwindCss  
