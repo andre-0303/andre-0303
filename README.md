@@ -2,8 +2,6 @@
   🧑‍💻Hi! I'm André Bandeira
 </h1>
 
-<img align="center" src="./1741176960870.jpg" alt="img-profile"/>
-
 ---
 
 ### 👨‍💻 About Me
@@ -11,10 +9,15 @@
 I'm a **Front-end Developer** from **Brazil 🇧🇷**, passionate about building incredible digital experiences.
 I have three years of experience in the technology world, and I'm always willing to learn new things and improve what I know.
 
-- 🎓 IT student  
-- 🚀 Learning Next + TailwindCss  
-- 💻 Front-end enthusiast  
-- ✨ Creative, curious, and resilient  
+I have a degree in Computer Science. My technical skills include proficiency in React, JavaScript, NextJs, TypeScript, NodeJs, PHP, TailwindCss, Bootstrap, Git, Github, MySQL, MongoDB, and the foundation of the web: HTML & CSS.
+
+I really enjoy solving my own problems and those of other people using programming, which shows how essential the world of computing is for everyone. My goal as a developer is to create solutions that have a positive impact on the world.
+
+```js
+const Home = () => {
+  return <h1>Welcome to my universe!</h1>;
+};
+```
 
 ---
 
@@ -40,14 +43,6 @@ I have three years of experience in the technology world, and I'm always willing
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" height="150em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" height="150em"/>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/andre-0303/andre-0303/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</picture>
 
 ---
 
