@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b64b1e5c-d133-474c-bea7-12abfe9de506" alt="André Bandeira Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/b64b1e5c-d133-474c-bea7-12abfe9de506" alt="André Bandeira Banner" style="max-width: 100%; height: 300px;" />
 </p>
 
 ### 👨‍💻 About Me
