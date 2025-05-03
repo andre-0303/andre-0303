@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b64b1e5c-d133-474c-bea7-12abfe9de506" alt="André Bandeira Banner" style="max-width: 100%; height: auto;" />
+</p>
+
 ### 👨‍💻 About Me
 
 I'm a **Front-end Developer** from **Brazil 🇧🇷**, passionate about building incredible digital experiences.
