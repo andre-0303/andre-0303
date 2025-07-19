@@ -27,7 +27,6 @@ I really enjoy solving my own problems and those of other people using programmi
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,php,nodejs,mysql,postgres,mongodb" />
-    
     </a>
   </p>
 
