@@ -3,14 +3,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm André Bandeira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Back-End+Developer;Front-End+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Front-End+Developer;Mobile+Developer;" alt="Typing SVG" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="25%" align="right" alt="Coding" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" />
 <br>
 
-Hello! I'm a **Fullstack Developer** passionate about technology. 🚀
+Hello! I'm a **Front-End and Mobile Developer** passionate about technology. 🚀
 
 I'm a Fullstack Developer from Brazil 🇧🇷, passionate about building incredible digital experiences. I have three years of experience in the technology world, and I'm always willing to learn new things and improve what I know.
 
