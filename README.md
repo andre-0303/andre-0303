@@ -1,61 +1,44 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
+## 👋 Hello, welcome!
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm André Bandeira</h1>
+I'm **André Bandeira**, a **Front-End and Mobile Developer** focused on building modern, performant, and well-structured web and mobile applications.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Front-End+Developer;Mobile+Developer;" alt="Typing SVG" />
-</p>
+I work mainly on the client side, transforming ideas and designs into scalable, accessible, and maintainable interfaces. I strongly value clean code, good architecture, and solutions that actually solve real problems — not just “make it work”.
 
-## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
-<img width="25%" align="right" alt="Coding" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" />
-<br>
+With a background in Computer Science and solid experience in the JavaScript ecosystem, I enjoy working across the product lifecycle, from UI/UX implementation to API integration and performance optimization.
 
-Hello! I'm a **Front-End and Mobile Developer** passionate about technology. 🚀
+---
 
-I'm a Fullstack Developer from Brazil 🇧🇷, passionate about building incredible digital experiences. I have three years of experience in the technology world, and I'm always willing to learn new things and improve what I know.
+## 🧱 Core Tech Stack
 
-I have a degree in Computer Science. My technical skills include proficiency in React, React Native, JavaScript, NextJs, TypeScript, NodeJs, PHP, TailwindCss, Bootstrap, Git, Github, MySQL, MongoDB, and the foundation of the web: HTML & CSS.
+- **Languages:** TypeScript, JavaScript
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3  
+- **Mobile:** React Native
+- **Backend & APIs:** Node.js, REST APIs, PHP (when needed)
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Workflow:** Git, GitHub, Clean Architecture principles, Responsive Design & Performance Optimization  
 
-I really enjoy solving my own problems and those of other people using programming, which shows how essential the world of computing is for everyone. My goal as a developer is to create solutions that have a positive impact on the world.
+---
 
-[↗️View my Portfolio](https://portfolio-lac-pi-34.vercel.app)
-<br>
-<br>
+## 🏗️ Background  
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+- Bachelor’s degree in Computer Science  
+- 3+ years of experience in web and mobile development  
+- Strong focus on Front-End engineering and UI consistency  
+- Comfortable collaborating with designers, backend developers, and product teams  
+- Always improving code quality, readability, and maintainability  
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,php,nodejs,mysql,postgres,mongodb" />
-    </a>
-  </p>
+---
 
+## 🔍 Currently Working On
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats 
+- Building scalable Front-End applications with **Next.js**  
+- Improving performance, SEO, and accessibility  
+- Enhancing mobile experiences with **React Native**  
+- Deepening knowledge in Front-End architecture and best practices  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-0303&show_icons=true&locale=en&layout=compact&theme=dracula" height="150em"/>
-</div>
+---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
+## 📬 Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andré-bandeira" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bandeiradev.ti@gmail.com" target="_blank" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/andre-0303" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/andre-0303" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=site" height="40" alt="GitHub"/>
-  </a>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79&section=footer"/>
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/andré-bandeira  
+- 📧 **Email:** bandeiradev.ti@gmail.com  
