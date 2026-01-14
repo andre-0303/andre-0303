@@ -15,6 +15,8 @@ With a background in Computer Science and solid experience in the JavaScript eco
 - **Mobile:** React Native
 - **Backend & APIs:** Node.js, REST APIs, PHP (when needed)
 - **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, CI/CD (Github Actions)
+- **Tests**: Jest
 - **Tools & Workflow:** Git, GitHub, Clean Architecture principles, Responsive Design & Performance Optimization  
 
 ---
