@@ -24,7 +24,7 @@ I enjoy working across the product lifecycle, from UI/UX implementation to API i
 - **Languages**: TypeScript, JavaScript
 - **Front-End**: React, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, Accessibility and responsive design  
 - **Mobile**: React Native
-- **Backend**: Node.js, NestJS, REST APIs 
+- **Backend**: Node.js, NestJS, REST APIs, GraphQL
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **DevOps & Quality**: Docker, CI/CD (GitHub Actions), Unit testing with Jest  
 - **Tools & Workflow**: Git, GitHub, Clean Architecture principles, Performance optimization, Agile workflows  
