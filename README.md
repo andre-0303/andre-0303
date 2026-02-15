@@ -1,6 +1,6 @@
 ## 👋 Hello, welcome!
 
-I'm **André Bandeira**, a **Front-End Software Engineer** focused on building scalable, performant, and well-structured web and mobile applications.
+I'm **André Bandeira**, a **Full Stack Software Engineer** focused on building scalable, performant, and well-structured web and mobile applications.
 
 I specialize in Front-End engineering, working mainly on the client side while maintaining a strong understanding of backend fundamentals, APIs, and system integration. I care deeply about clean code, architecture, performance, and long-term maintainability — not just making things work.
 
