@@ -27,7 +27,8 @@ I enjoy working across the product lifecycle, from UI/UX implementation to API i
 - **Backend**: Node.js, NestJS, REST APIs, GraphQL
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **DevOps & Quality**: Docker, CI/CD (GitHub Actions), Unit testing with Jest  
-- **Tools & Workflow**: Git, GitHub, Clean Architecture principles, Performance optimization, Agile workflows  
+- **Tools & Workflow**: Git, GitHub, Performance optimization, Agile workflows
+- **Software Architecture**: Clean Architecture, DDD, Microservices, Hexagonal Architecture, Event-Driven, TDD
 
 ---
 
