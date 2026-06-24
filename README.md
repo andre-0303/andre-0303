@@ -45,6 +45,17 @@
 *   **Performance & Core Metrics:** System Design scalability, optimizing Core Web Vitals, API optimization, Accessibility (A11Y), and SEO.
 
 ---
+### Certificates
+<div align='center'>
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=386429" alt="Devops & Agile Culture">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=860192" alt="Software Engineering">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=928143" alt="Linux Fundamentals">
+  &nbsp;&nbsp;
+</div>
+
+---
 ### 📬 Let's Connect
 
 I am open to remote opportunities worldwide focused on **Full Stack Software Engineering**, advanced system design, and building scalable digital products.
