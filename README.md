@@ -53,6 +53,8 @@
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=928143" alt="Linux Fundamentals">
   &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=dark&badge=370618" alt="Linux Fundamentals">
+  &nbsp;&nbsp;
 </div>
 
 ---
